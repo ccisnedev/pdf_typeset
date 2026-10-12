@@ -1,0 +1,17 @@
+name: pdf_typeset
+description: Pure Dart typesetting core for PDF generation. Knuth-Plass optimal line breaking and Liang hyphenation with TeX patterns. Early preview.
+version: 0.0.1
+repository: https://github.com/ccisnedev/pdf_typeset
+issue_tracker: https://github.com/ccisnedev/pdf_typeset/issues
+homepage: https://github.com/ccisnedev/pdf_typeset
+topics:
+  - pdf
+  - typesetting
+  - hyphenation
+
+environment:
+  sdk: ^3.5.0
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.25.0
